@@ -1,4 +1,4 @@
-module cs25b029_session6_tb();
+module CS25B035_session6_tb();
 reg A,B,C,D,E;
 wire F;
 cs25b029_session6 uut(A,B,C,D,E,F);
